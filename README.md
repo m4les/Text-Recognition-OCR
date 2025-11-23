@@ -15,3 +15,11 @@ Now, this is meant for printed text, so it performs much better on things such a
 <img width="723" height="647" alt="image" src="https://github.com/user-attachments/assets/9ad13754-cdeb-41c7-a3d7-6c797abca4f4" />
 
 There are some better OCR programs made by professionals, obviously, but I think for a first attempt this is pretty great
+
+PIP Requirements:
+-paddleocr
+-wordninja
+-spellchecker
+-language_tool_python
+-transformers
+-customtkinter
